@@ -1,0 +1,11 @@
+models/
+.env
+.hf_cache/
+__pycache__
+data/
+catboost_info/
+output/
+.DS_Store
+project-final-report/
+project-plan-work/
+*.json
